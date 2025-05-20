@@ -43,7 +43,7 @@
   line-height: 24px;
   letter-spacing: -0.01em;
   list-style-position: inside;
- /*overflow: auto;*/
+ overflow: auto;
 }
 
 .main li:not(:last-of-type) {
